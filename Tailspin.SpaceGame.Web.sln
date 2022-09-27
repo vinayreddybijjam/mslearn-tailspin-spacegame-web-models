@@ -34,11 +34,4 @@ Global
 EndGlobal
 
 
-<?xml version="1.0" encoding="utf-8"?>
-<configuration>
-  <packageSources>
-    <clear />
-    <add key="bijjamvinay9666" value="https://pkgs.dev.azure.com/bijjamvinay9666/_packaging/bijjamvinay9666/nuget/v3/index.json" />
-  </packageSources>
-</configuration>
 
